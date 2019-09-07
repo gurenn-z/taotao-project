@@ -1,4 +1,6 @@
 # taotao-project
+## 系统架构
+![](https://i.loli.net/2019/09/08/uKd15FPsW6Vy4Qa.png)
 ## 项目结构
 ```
 taotao-parent：父工程，打包方式pom，管理jar包的版本号。
